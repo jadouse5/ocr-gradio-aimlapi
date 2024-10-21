@@ -1,3 +1,5 @@
+# 📄 OCR Reader, 🔍 Analyzer, and 💬 Chat Assistant using 🔎 Zerox, 🧠 GPT-4o, powered by 🚀 AI/ML API
+
 **What I Built**
 
 I built an **OCR Document Reader** that allows users to upload and extract text from various document types such as PDFs, Word, and documents. The app utilizes the [**Zerox**](https://github.com/getomni-ai/zerox) library for Optical Character Recognition (OCR) and integrates the **AI/ML API's GPT-4o** model for advanced text analysis. With features like **support for multiple document formats**, **text analysis**, and an interactive interface built with **Gradio 5.0**, this app simplifies the process of extracting and analyzing text from complex documents.
