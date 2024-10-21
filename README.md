@@ -27,10 +27,6 @@ Here are some key features of the app:
 - **Maintain Formatting**:  
   Optionally preserve the original document's formatting in the extracted text.
 
-## My Code
-
-Find the source code for the project on [GitHub](https://github.com/jadouse5/ocr-gradio-aimlapi).
-
 ### Tech Stack
 
 - **Python**: Core programming language.
