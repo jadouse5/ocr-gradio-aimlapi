@@ -1,0 +1,7 @@
+gradio
+py-zerox
+openai
+markdown2
+gradio_pdf
+pdf2image
+pytesseract
