@@ -12,11 +12,12 @@ I built an **OCR Document Reader** that allows users to upload and extract text 
 
 ## Demo
 
-Check out the [Demo](https://your-demo-link.com).
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vtkgt94kkatc14x22uij.gif)
 
 Here are some key features of the app:
 
-![App Screenshot](https://your-screenshot-link.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qtp52gnbiwpmq96q2yo4.png)
+
 
 - **Upload Documents**:  
   Users can upload PDFs, Word documents, or images for OCR processing.
